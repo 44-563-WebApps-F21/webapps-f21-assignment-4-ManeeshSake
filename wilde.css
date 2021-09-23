@@ -1,0 +1,93 @@
+.speech {
+  font-family: Lucida Console, Helvetica, sans-serif;
+  font-size: medium;
+  color: black;
+}
+
+.stage-direction {
+  font-family: Lucida Console, Helvetica, sans-serif;
+  font-size: medium;
+  color: black;
+  background-color: lightblue;
+}
+
+.name {
+  font-family: Lucida Console, Helvetica, sans-serif;
+  font-size: medium;
+  color: black;
+}
+.stage-direction:hover {
+  background-color: burlywood;
+  color: brown;
+}
+.marchmort{
+  color: red;
+}
+.ladybasildon{
+  color: green;
+}
+.mason{
+  color:plum;
+}
+.lordcaversham{
+  color:salmon;
+}
+.ladychiltern{
+  color:slategray;
+}
+.mabelchiltern{
+  color:steelblue;
+
+}
+.ladymarkby{
+  color:teal;
+}
+.lordgoring{
+  color:lightblue;{
+
+  }
+  .vicomtedenanjac{
+    color:lightgrey;
+  }
+
+
+}
+table {
+  border: solid 3px lightseagreen;
+  width: 35%;
+  border-collapse: collapse;
+  margin: 5px;
+}
+
+th, td {
+  border: solid 1px ;
+  text-align: center;
+  padding: 12px;
+}
+
+tr:nth-child(even) {
+  background-color: palevioletred;
+}
+.name:hover {
+  text-shadow: 2px 3px 4px rosybrown;
+  border: solid 2px gainsboro;
+}
+
+ul.navbar-horizontal {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul.navbar-horizontal li {
+  float:left;
+  background-color: darkviolet;
+}
+ul.navbar-horizontal a {
+  display:block;
+  padding:8px;
+  color: floralwhite;
+}
+ul.navbar-horizontal a:hover {
+  background-color: darkslateblue;
+  color:yellowgreen;
+}
